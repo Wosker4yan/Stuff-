@@ -1,4 +1,4 @@
-package ExerciseswithVahan;
+package ExerciseswithVahan.Shooters;
 import java.util.Random;
 
 

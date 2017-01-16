@@ -1,4 +1,4 @@
-package ExerciseswithVahan;
+package ExerciseswithVahan.Shooters;
 /*
 Программно промоделировать стрельбу по мишени группой человек.
 Каждый человек имеет свое имя, возраст (в годах) и стаж обучения

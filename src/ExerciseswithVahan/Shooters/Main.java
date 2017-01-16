@@ -1,5 +1,4 @@
-package ExerciseswithVahan;
-import java.util.Random;
+package ExerciseswithVahan.Shooters;
 
 
 /**
